@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.1",
+  "id": "rate-freshness-guard",
+  "task": "Add rate freshness validation to the existing flow",
+  "profile": "build",
+  "state": "draft",
+  "createdAt": "2026-11-08T00:00:00.000Z",
+  "repoHead": "REPLACE_BY_RUNNING_INIT",
+  "base": null,
+  "scopeFingerprint": "REPLACE_BY_RUNNING_INIT",
+  "scopeDirty": false,
+  "changedFiles": [],
+  "summary": "",
+  "relevantFiles": [],
+  "evidence": [],
+  "relationships": [],
+  "unknowns": ["Example: what is the expected fallback?"],
+  "blockers": [],
+  "retrieval": { "queries": [], "limitations": [], "stopReason": "" },
+  "consumerGuidance": "Example only. Do not reuse as real repository evidence."
+}

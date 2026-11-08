@@ -1,0 +1,5 @@
+{
+  "name": "context-acquisition",
+  "version": "0.2.0",
+  "description": "Evidence-backed context packs and validated handoffs for Claude Code planning, coding and reviews."
+}

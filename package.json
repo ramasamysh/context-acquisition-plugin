@@ -1,0 +1,9 @@
+{
+  "name": "context-acquisition-layer-plugin",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "description": "Dependency-free CLI and tests for the Claude Code Context Acquisition plugin",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test tests/*.test.mjs", "check": "node --check scripts/cal.mjs && node --check lib/cal-core.mjs" }
+}
